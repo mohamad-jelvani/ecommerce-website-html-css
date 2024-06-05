@@ -1,0 +1,19 @@
+body {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+}
+
+.header {
+    background-color: wheat;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
